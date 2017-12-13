@@ -7,3 +7,5 @@
                   _top              在整个窗口中打开。
                   framename         在窗口名打开
                   
+#### `<abbr>`标签 
+ * <abbr title="Internationalization">I18N</abbr> 用于提示缩写
