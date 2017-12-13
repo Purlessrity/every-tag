@@ -9,5 +9,9 @@
                   
 #### `<abbr>`标签 
  * <abbr title="Internationalization">I18N</abbr> 用于提示缩写
-####`<bdo>`使字符朝着给定的方向排序
+ 
+ #### `<bdo>`使字符朝着给定的方向排序
 *dir ltr: 从左往右写，与现代汉语的书写习惯相同,rtl: 从右往左写，与古代汉语书写习惯相同.
+ ####  `<bdi>` 元素 (双向隔离元素) 会隔离可能以不同方向进行格式化的外部文本。
+ 
+ #### `<datalist>`   datalist里包含option选项里的value可带有 list='datalistID' 属性的input标签复用
