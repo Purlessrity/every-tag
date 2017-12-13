@@ -15,4 +15,5 @@
  ####  `<bdi>` 元素 (双向隔离元素) 会隔离可能以不同方向进行格式化的外部文本。
  
  #### `<datalist>`   datalist里包含option选项里的value可带有 list='datalistID' 属性的input标签复用
- #### `<datails>` 可用做发现小部件  `<summary>`标签用作标题头 '<p>'标签用作内容
+ #### `<datails>` 可用做发现小部件  `<summary>`标签用作标题头 `<p>`标签用作内容
+ #### `<fieldset >` 通常用做一个包围的样式 ` <legend>`标签控制包围头标题
