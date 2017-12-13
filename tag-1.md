@@ -9,3 +9,5 @@
                   
 #### `<abbr>`标签 
  * <abbr title="Internationalization">I18N</abbr> 用于提示缩写
+####`<bdo>`使字符朝着给定的方向排序
+*dir ltr: 从左往右写，与现代汉语的书写习惯相同,rtl: 从右往左写，与古代汉语书写习惯相同.
